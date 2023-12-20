@@ -1,0 +1,4 @@
+eureka:
+   client:
+     service-url:
+       defaultZone: http://newsapp-lb-1751737358.eu-north-1.elb.amazonaws.com:8761/eureka/
